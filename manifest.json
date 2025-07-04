@@ -4,19 +4,19 @@
   "description": "Open WebUI is an open, extensible, user-friendly interface for AI that adapts to your workflow.",
   "start_url": "/",
   "display": "standalone",
-  "background_color": "#343541",
+  "background_color": "#FFFFFF",
   "orientation": "any",
   "icons": [
     {
-      "src": "/static/raftel.png",
+      "src": "/static/raftel.512.png",
       "type": "image/png",
-      "sizes": "500x500",
+      "sizes": "512x512",
       "purpose": "any"
     },
     {
-      "src": "/static/raftel.png",
+      "src": "/static/raftel.512.png",
       "type": "image/png",
-      "sizes": "500x500",
+      "sizes": "512x512",
       "purpose": "maskable"
     }
   ]
