@@ -6,6 +6,7 @@
   "display": "standalone",
   "background_color": "#343541",
   "theme_color": "#343541",
+  "orientation": "default",
   "icons": [
     {
       "src": "/static/raftel.512.png",
