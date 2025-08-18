@@ -1,20 +1,18 @@
 {
   "name": "Raftel AI",
   "short_name": "Raftel AI",
-  "description": "Open WebUI is an open, extensible, user-friendly interface for AI that adapts to your workflow.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#343541",
   "theme_color": "#343541",
-  "orientation": "any",
   "icons": [
     {
-      "src": "/static/raftel.512.png",
+      "src": "/static/icons/raftel.512.png",
       "type": "image/png",
       "sizes": "512x512"
     },
     {
-      "src": "/static/raftel.256.png",
+      "src": "/static/icons/raftel.192.png",
       "type": "image/png",
       "sizes": "192x192"
     }
